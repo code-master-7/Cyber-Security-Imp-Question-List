@@ -1,7 +1,9 @@
 # Cyber-Security-Imp-Question-List
 All previous year's paper question lists... 
 > [!CAUTION]
-> This List might not include all the questions Or might have missed some questions go further at your own risk !!! 
+> This List might not include all the questions Or might have missed some questions go further at your own risk !!!
+> [!NOTE]
+> Times is the count of questions asked in the exam
 ---
 | Index   | Question                                                                                                        | Times   | Years                                   | Marks        |
 |---------|-----------------------------------------------------------------------------------------------------------------|---------|-----------------------------------------|--------------|
